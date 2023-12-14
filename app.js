@@ -315,7 +315,7 @@ function updateProgressBar(checkCount) {
 }
 
 function handleAccordionClick() {
-  setupGuideTab.classList.toggle(HIDE_CLASS);
+  setupGuideTab.classList.toggle("collapse");
   accordionUpElement.classList.toggle(HIDE_CLASS);
   accordionDownElement.classList.toggle(HIDE_CLASS);
 

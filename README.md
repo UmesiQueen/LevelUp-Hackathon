@@ -15,7 +15,7 @@ We were to create a fully responsive experience for users on these device types:
 - Mobile Phones (Google Chrome Browser Only)
 - Desktops (Google Chrome Browser Only)
 
-## Challenge constraints
+### Challenge constraints
 
 The solution to the challenge was limited to using **only HTML, CSS and Vanilla Javascript** (a file for each). No CSS or Javascript frameworks or libraries are allowed.
 
