@@ -1,6 +1,6 @@
 # The Level Up Front Hackathon Challenge
 
-My first attempt to participate in an online Frontend Hackathon.
+My first attempt in an online Frontend Hackathon.
 
 ## The challenge✨
 
@@ -40,4 +40,4 @@ Overall, I had a swell time doing this. Although I hopped on the train late and 
 
 I look forward to participating in more Hackathons and ACING them.
 
-**_WAGMI_** 🚀🚀
+**_Happy Coding_** 🚀🚀
